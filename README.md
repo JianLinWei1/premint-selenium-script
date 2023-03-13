@@ -2,13 +2,14 @@
  * @Descripttion: description
  * @Author: jianlinwei
  * @Date: 2023-03-13 17:29:50
- * @LastEditTime: 2023-03-13 17:31:30
+ * @LastEditTime: 2023-03-13 17:41:02
 -->
 # premint-selenium-script
 premint自动化脚本
+
 演示视频：
 
-<video src="https://youtu.be/iBveJNEwbmA" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+[![演示](https://res.cloudinary.com/marcomontalbano/image/upload/v1678700441/video_to_markdown/images/youtube--iBveJNEwbmA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/iBveJNEwbmA "演示")
 
 
 完成度：60%
