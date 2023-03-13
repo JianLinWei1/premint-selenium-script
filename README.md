@@ -8,9 +8,8 @@
 premint自动化脚本
 演示视频：
 
-<video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="[mp4格式视频](https://youtu.be/iBveJNEwbmA)" type="video/mp4">
-</videos>
+<video src="https://youtu.be/iBveJNEwbmA" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+
 
 完成度：60%
 
@@ -26,6 +25,6 @@ premint自动化脚本
 
 2.在test.xlsx 中填入需要的信息
 
-![avatar]()
+![avatar](https://github.com/JianLinWei1/premint-selenium-script/blob/master/driver/1678698922842.png)
 
 3.双击main.exe自动运行
